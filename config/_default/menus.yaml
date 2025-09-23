@@ -1,0 +1,100 @@
+leftnav:
+- identifier: b5c6793d-89a7-6651-965c-2e307d908dd0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e2c05c90-6dc1-1c6d-5551-1af84a235352
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: f30e545a-eced-a806-975a-ff5e3884df61
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 33beed15-2a26-7baa-563e-831688524912
+  name: A Compass-Led Course
+  pageRef: /pages/instructor-insights/a-compass-led-course
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 40
+- identifier: f443cf77-0c83-3386-6eb4-1188b7019d8a
+  name: Misconceptions about Data Storytelling
+  pageRef: /pages/instructor-insights/misconceptions-about-data-storytelling
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 50
+- identifier: 9a0716fe-5de0-07d1-3744-f4693a908c54
+  name: Thinking with Climate Data
+  pageRef: /pages/instructor-insights/thinking-with-climate-data
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 60
+- identifier: d3cc71a7-4937-eb86-be41-28b9d95b0366
+  name: Tips for Making Teamwork Work Well
+  pageRef: /pages/instructor-insights/tips-for-making-teamwork-work-well
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 70
+- identifier: 2c8c1e3c-49ee-995f-644b-7b77eae017a8
+  name: Using a Class Blog for Learning
+  pageRef: /pages/instructor-insights/using-a-class-blog-for-learning
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 80
+- identifier: 43e96554-e255-dd49-d52a-2f23f5869f5d
+  name: Making Things Local
+  pageRef: /pages/instructor-insights/making-things-local
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 90
+- identifier: ed98817e-62a7-7490-1854-ee4bbe26d6d5
+  name: Compelling Data Storytelling Techniques
+  pageRef: /pages/instructor-insights/compelling-data-storytelling-techniques
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 100
+- identifier: 63b72bf4-f7d6-541c-2cd9-1b52b518bc25
+  name: Advice for Students
+  pageRef: /pages/instructor-insights/advice-for-students
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 110
+- identifier: a84e6307-5eb5-dc2a-fe37-5d1db154c8b7
+  name: Tips for Educators
+  pageRef: /pages/instructor-insights/tips-for-educators
+  parent: f30e545a-eced-a806-975a-ff5e3884df61
+  weight: 120
+- identifier: 00cc71f5-0edc-6211-dea8-7de61cae8c25
+  name: Readings
+  pageRef: /pages/readings
+  weight: 130
+- identifier: 4d6c8832-7eef-adc8-9388-e59d050f3a65
+  name: Class Notes
+  pageRef: /pages/class-notes
+  weight: 140
+- identifier: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 150
+- identifier: a7948c29-5d38-d3a1-af5d-d7583a5b812d
+  name: Final Project Requirements
+  pageRef: /pages/assignments/final-project-requirements
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 160
+- identifier: 360d33f9-0d12-9b01-8e99-9a7f4b0198de
+  name: 'Donate by Playing: A Fundraising Board Game'
+  pageRef: /pages/assignments/donate-by-playing
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 170
+- identifier: 3ecc29ca-fdc3-6b89-55c0-24a6966814ef
+  name: How Much Do You Actually Know About Commuting In Boston?
+  pageRef: /pages/assignments/how-much-do-you-actually-know-about-commuting-in-boston
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 180
+- identifier: 5a80417e-2e1e-07c9-f5f7-633769658e73
+  name: Affluent White Bostonians Unfairly Targeted by Stop and Frisk...
+  pageRef: /pages/assignments/affluent-white-bostonians-unfairly-targeted-by-stop-and-frisk-practices---mostly-while-leaving-soulcycle
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 190
+- identifier: df923fd4-b9a9-a390-787a-1466e46a0691
+  name: BeeSmart
+  pageRef: /pages/assignments/beesmart
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 200
+- identifier: 53a0ec2c-60ae-c84c-85e1-fda946c7662d
+  name: Save the Bees
+  pageRef: /pages/assignments/save-the-bees
+  parent: 49ee1162-96a3-a2a1-b82a-1509dbf30186
+  weight: 210
