@@ -4,6 +4,8 @@ description: ''
 file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/e2c7b9a28b57d48faa490804ed40d61b_MITCMS_631s17_assn_game_ifrcslides.pdf
 file_size: 622039
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

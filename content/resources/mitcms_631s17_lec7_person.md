@@ -4,6 +4,8 @@ description: ''
 file: /courses/cms-631-data-storytelling-studio-climate-change-spring-2017/ba2881aebc9be17ef431f378d913174e_MITCMS_631s17_lec7_person.pdf
 file_size: 884707
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

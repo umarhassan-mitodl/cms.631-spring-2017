@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -332,11 +334,11 @@ Final Project
 Course Policies
 ---------------
 
-You are expected to produce your own original work for each assignment. For group projects you are expected to contribute to the team's effort in valuable ways. Raise any concerns about team members on group projects to me privately as soon as possible. All students will be held to the standards of {{% resource_link "4302c1dc-598c-4b6d-8bf5-2aecb0acfe14" "MIT's Academic Integrity Handbook (PDF)" %}}.
+You are expected to produce your own original work for each assignment. For group projects you are expected to contribute to the team's effort in valuable ways. Raise any concerns about team members on group projects to me privately as soon as possible. All students will be held to the standards of [MIT's Academic Integrity Handbook (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf).
 
 ### Plagiarism
 
-Plagiarism — use of another’s intellectual work without acknowledgement — is a serious offense. It is the policy of the CMS/W Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else’s work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student’s own work. For further guidance on the proper forms of attribution, consult the style guides available in the MIT Writing and Communication Center and the {{% resource_link "c2d16684-a9cc-4e41-b005-e96ebda642d8" "MIT Website on Plagiarism" %}}.
+Plagiarism — use of another’s intellectual work without acknowledgement — is a serious offense. It is the policy of the CMS/W Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else’s work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student’s own work. For further guidance on the proper forms of attribution, consult the style guides available in the MIT Writing and Communication Center and the [MIT Website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 ### Technology Policy
 

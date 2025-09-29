@@ -2,6 +2,8 @@
 content_type: page
 description: 'The page gives a detailed description of the final project requirements
   and a few suggestions. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

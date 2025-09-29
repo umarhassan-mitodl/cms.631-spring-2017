@@ -2,6 +2,8 @@
 content_type: page
 description: This page describes an online quiz exploring commuting options in the
   Boston area, viewed through the Hubway bikeshare service.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,11 +23,11 @@ By Catherine Caruso, Kendra Pierre-Louis, and two other MIT students. (Used with
 Writeup
 -------
 
-For this assignment we created a {{% resource_link "2234baf5-6f56-470a-9cc4-d35cbad3eb6c" "BuzzFeed quiz" %}}.
+For this assignment we created a [BuzzFeed quiz](https://www.buzzfeed.com/judyc4a9bf06a3/how-much-do-you-actually-know-about-commuting-in-b-2a5bw).
 
-The data say that since {{% resource_link "9079f33c-25b2-4e2f-b184-4442b0314a58" "Hubway" %}}’s inception in 2011, ridership has increased. In fact, earlier this month \[April 2016\], Hubway had its 4-millionth ride. However most of its riders were born between 1981-1986. People in their early to mid-thirties make up 38-percent of Hubway riders. Yet those born after 1991, currently only make up four percent of Hubway ridership. Getting young people to start riding Hubway is important for the system’s longevity because once people habits become entrenched it is difficult to get them to switch. This is why marketers target people during life transitions – marriage, pregnancy, etc – because it’s easier to get them to try something new while they’re already in transition. Similarly, we wanted to target young people as they made the transition from students to adults.
+The data say that since [Hubway](https://www.thehubway.com/)’s inception in 2011, ridership has increased. In fact, earlier this month \[April 2016\], Hubway had its 4-millionth ride. However most of its riders were born between 1981-1986. People in their early to mid-thirties make up 38-percent of Hubway riders. Yet those born after 1991, currently only make up four percent of Hubway ridership. Getting young people to start riding Hubway is important for the system’s longevity because once people habits become entrenched it is difficult to get them to switch. This is why marketers target people during life transitions – marriage, pregnancy, etc – because it’s easier to get them to try something new while they’re already in transition. Similarly, we wanted to target young people as they made the transition from students to adults.
 
-We wanted to tell this story because Hubway provides a vital service that complements mass transit systems, while reducing the carbon emissions associated with driving and improving the health and wellbeing of riders. In addition, Hubway doesn’t just benefit Hubway – it makes the streets safer for cycling generally and by proxy for pedestrians. Writes Emily Badger in a {{% resource_link "261d6a62-a169-43e9-953f-0864a08c261e" "2014 Washington Post article" %}} about the rollout of New York City’s bike sharing program, Citibike.
+We wanted to tell this story because Hubway provides a vital service that complements mass transit systems, while reducing the carbon emissions associated with driving and improving the health and wellbeing of riders. In addition, Hubway doesn’t just benefit Hubway – it makes the streets safer for cycling generally and by proxy for pedestrians. Writes Emily Badger in a [2014 Washington Post article](https://www.washingtonpost.com/news/wonk/wp/2014/04/17/actually-cyclists-make-city-streets-safer/) about the rollout of New York City’s bike sharing program, Citibike.
 
 As more people bike and walk, cycling and pedestrian fatalities actually decline. That’s because the more people bike and walk, the more drivers become attuned to their presence (either on sidewalks or road shoulders), and the more cities are likely to invest in the kind of infrastructure explicitly meant to protect them (all of which further encourages more cyclists and pedestrians).
 
@@ -134,7 +136,7 @@ Retweets
 
 {{< tableclose >}}
 
-To produce this data we used Hubways 2014 bikeshare data. In addition, we used a wide variety of additional data sets for comparison points. For example, to compare the cost of commuting in Boston by Hubway, T, and car, we used the current cost of a full-priced monthly T pass provided by the MBTA. For car cost we used {{% resource_link "e04718e6-3df7-4926-b3f5-b24d1633dc7b" "2011 AAA data" %}} which put the cost for a medium sedan at 57.3 cents a mile, and calculated out the cost of that car commuting the average 7.6 miles per day for 50 weeks a year (assuming 2 weeks’ vacation). The carbon emissions data was based on. Calorie data was based on a {{% resource_link "c935ceeb-db21-4caf-b122-f6ad7e85ac17" "bicycle calculator" %}} from bicycle.com and {{% resource_link "31d015fb-629f-43a2-9fa8-2be8ccc90c57" "USDA calorie data" %}}.
+To produce this data we used Hubways 2014 bikeshare data. In addition, we used a wide variety of additional data sets for comparison points. For example, to compare the cost of commuting in Boston by Hubway, T, and car, we used the current cost of a full-priced monthly T pass provided by the MBTA. For car cost we used [2011 AAA data](http://archive.boston.com/cars/newsandreviews/overdrive/2011/04/average_car_ownership_nearly_9000_per_year.html) which put the cost for a medium sedan at 57.3 cents a mile, and calculated out the cost of that car commuting the average 7.6 miles per day for 50 weeks a year (assuming 2 weeks’ vacation). The carbon emissions data was based on. Calorie data was based on a [bicycle calculator](https://www.bicycling.com/food/calories/cycling-calories-burned-calculator) from bicycle.com and [USDA calorie data](https://www.nal.usda.gov/fnic/calculators-and-counters).
 
 We think this was an appropriate way of approaching the issue – the stereotype of the daily commute is one of a painful slog. We, instead, wanted to portray bicycle riding and Hubway use as the opposite of that – fun, whimsical, AND the smart choice. Testers within the target demographic responded that they laughed, and they learned something.
 
