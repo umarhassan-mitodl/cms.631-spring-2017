@@ -42,15 +42,15 @@ Course overview & asking questions
 Course overview & asking questions (contd.)
 {{< tdclose >}}{{< tdopen >}}
 
-Burghart, B. "[What I’ve Learned from Two Years Collecting Data on Police Killings](http://gawker.com/what-ive-learned-from-two-years-collecting-data-on-poli-1625472836)." *Gawker,* August 2014.
+Burghart, B. "{{% resource_link "7198fbc8-8b77-4157-95fa-c9d8eb5d01ca" "What I’ve Learned from Two Years Collecting Data on Police Killings" %}}." *Gawker,* August 2014.
 
 Veltman, N. "Scraping the web." *School of Data,* November 2013.
 
 ### Graduate Readings
 
-Gurin, J. “[Open Governments, Open Data: A New Lever for Transparency, Citizen Engagement, and Economic Growth](https://doi.org/10.1353/sais.2014.0009).” *SAIS Review of International Affairs* 34 no. 1 (2014): 71–82.
+Gurin, J. “{{% resource_link "367768a8-e885-42c2-97b2-bacc27e4261a" "Open Governments, Open Data: A New Lever for Transparency, Citizen Engagement, and Economic Growth" %}}.” *SAIS Review of International Affairs* 34 no. 1 (2014): 71–82.
 
-Gurstein, M. B. "[Open data: Empowering the empowered or effective data use for everyone?](https://doi.org/10.5210/fm.v16i2.3316)" *First Monday* 16 no. 2 (February 2011).
+Gurstein, M. B. "{{% resource_link "1dab0824-f4e5-453e-b8f9-c312dace77a5" "Open data: Empowering the empowered or effective data use for everyone?" %}}" *First Monday* 16 no. 2 (February 2011).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -60,13 +60,13 @@ Gurstein, M. B. "[Open data: Empowering the empowered or effective data use for 
 Getting and cleaning data
 {{< tdclose >}}{{< tdopen >}}
 
-Nguyen, D. "[Chapter 1: Using Google Refine to Clean Messy Data](https://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning)." *ProPublica*, December 30, 2010.
+Nguyen, D. "{{% resource_link "98745d00-bd97-4f37-87ad-e007a7cdf2c8" "Chapter 1: Using Google Refine to Clean Messy Data" %}}." *ProPublica*, December 30, 2010.
 
 DeBarros, A. "Excel: Extract text with FIND and MID." *on data, code & product* \[blog\], October 9, 2012.
 
 ### Graduate Reading
 
-Wickham, H. "[Tidy Data." (PDF)](http://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) *Journal of Statistical Software* 59 no. 10 (August 2014).
+Wickham, H. "{{% resource_link "8303f2bd-88ed-463f-adf3-bb3d9954aa0f" "Tidy Data.\" (PDF)" %}} *Journal of Statistical Software* 59 no. 10 (August 2014).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -76,23 +76,23 @@ Wickham, H. "[Tidy Data." (PDF)](http://www.jstatsoft.org/index.php/jss/article/
 Analyzing data
 {{< tdclose >}}{{< tdopen >}}
 
- Abelson, R. “Making Claims with Statistics.” Chapter 1 in *Statistics as Principled Argument*. Psychology Press, 1995. ISBN: 9780805805277. pp. 1–16. \[Preview with [Google Books](https://books.google.com/books?id=TgmbosIA7N0C&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
+ Abelson, R. “Making Claims with Statistics.” Chapter 1 in *Statistics as Principled Argument*. Psychology Press, 1995. ISBN: 9780805805277. pp. 1–16. \[Preview with {{% resource_link "35179232-b094-4c76-bc27-1f534b77c3ed" "Google Books" %}}\]
 
- Gonick, L. and W. Smith. *The Cartoon Guide to Statistics*. HarperPerennial, 1993. \[Preview with [Google Books](https://books.google.com/books?id=sjUcgxEz4x0C&printsec=frontcover#v=onepage&q&f=false)\]
+ Gonick, L. and W. Smith. *The Cartoon Guide to Statistics*. HarperPerennial, 1993. \[Preview with {{% resource_link "26e518fc-259b-4a4d-b424-0b4a73ecf51e" "Google Books" %}}\]
 
-Gray, J., L. Chambers, and L. Bounegru. "[Start with the Data, Finish with a Story](http://datajournalismhandbook.org/1.0/en/understanding_data_4.html)" and "[Data Stories](http://datajournalismhandbook.org/1.0/en/understanding_data_5.html)." In *The Data Journalism Handbook*. O’Reilly Media.
+Gray, J., L. Chambers, and L. Bounegru. "{{% resource_link "764e5eb9-44e2-46c5-853d-7b5339036550" "Start with the Data, Finish with a Story" %}}" and "{{% resource_link "c634b2ae-46fd-410a-8b35-85c7844eb614" "Data Stories" %}}." In *The Data Journalism Handbook*. O’Reilly Media.
 
-British Psychological Society (BPS). [Dancing Statistics](https://www.youtube.com/playlist?list=PLCkLQOAPOtT1xqDNK8m6IC1bgYCxGZJb_). YouTube playlist, 4 videos. March 5, 2015.
+British Psychological Society (BPS). {{% resource_link "bf2a5bb6-fbca-4e17-bdd7-46da80b98521" "Dancing Statistics" %}}. YouTube playlist, 4 videos. March 5, 2015.
 
-Robbins, N. "[When Should I Use Logarithmic Scales in My Charts and Graphs?](http://www.forbes.com/sites/naomirobbins/2012/01/19/when-should-i-use-logarithmic-scales-in-my-charts-and-graphs/#31f5e0f83cd8)" *Forbes Tech,* January 19, 2012.
+Robbins, N. "{{% resource_link "33d04b03-6621-4ab8-a67d-5c49a9a9fffd" "When Should I Use Logarithmic Scales in My Charts and Graphs?" %}}" *Forbes Tech,* January 19, 2012.
 
 ### Graduate Readings (focus on high-level takeaways)
 
 Koschinsky, J. "{{% resource_link "45bf2a26-5814-7876-84eb-9b7e0ec9f44b" "Data Science for Good: What Problems Fit?\" (PDF)" %}} (Courtesy of Julia Koschinsky. License CC BY)
 
-Brennan, M. “[Can computers be racist? Big data, inequality, and discrimination.](http://www.fordfoundation.org/ideas/equals-change-blog/posts/can-computers-be-racist-big-data-inequality-and-discrimination/)” Ford Foundation, 2015.
+Brennan, M. “{{% resource_link "e644d354-7924-40c5-a344-56ecf75d984e" "Can computers be racist? Big data, inequality, and discrimination." %}}” Ford Foundation, 2015.
 
-Leskovec, J., A. Rajaraman and J. D. Ullman. “[Data Mining.” (PDF)](http://infolab.stanford.edu/~ullman/mmds/ch1.pdf) Chapter 1 (author's manuscript version) in [*Mining of Massive Datasets*](http://www.mmds.org/). Cambridge University Press, 2011. (Skip the complicated math parts.)
+Leskovec, J., A. Rajaraman and J. D. Ullman. “{{% resource_link "956fdd9f-b458-44e8-ba7a-93670d467206" "Data Mining.” (PDF)" %}} Chapter 1 (author's manuscript version) in {{% resource_link "71b05362-b69d-4679-a5b8-9401f04208f0" "*Mining of Massive Datasets*" %}}. Cambridge University Press, 2011. (Skip the complicated math parts.)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -102,15 +102,15 @@ Leskovec, J., A. Rajaraman and J. D. Ullman. “[Data Mining.” (PDF)](http://i
 Telling a data-driven story
 {{< tdclose >}}{{< tdopen >}}
 
-Zer-Aviv, M. "[Disinformation Visualization: How to lie with datavis](https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis)." *Visualizing Information for Advocacy* (blog), January 31, 2014.
+Zer-Aviv, M. "{{% resource_link "643db7b7-f5c4-44d4-9cf5-d46bf2aa8a1e" "Disinformation Visualization: How to lie with datavis" %}}." *Visualizing Information for Advocacy* (blog), January 31, 2014.
 
  Edward R. Tufte. "Graphical Excellence." Chapter 1 in *The Visual Display of Quantitative Information*. 2nd edition. Graphics Press, 2001. ISBN: 9781930824133. pp 13-52
 
 ### Graduate Readings
 
- Ware, C. "Visual and Verbal Narrative." Chapter 7 in *Visual Thinking for Design*. Morgan Kaufmann, 2008. ISBN: 9780123708960. \[Preview with [Google Books](https://books.google.com/books?id=WBlUgKhMbdsC&lpg=PP1&pg=PA129#v=onepage&q&f=false)\]
+ Ware, C. "Visual and Verbal Narrative." Chapter 7 in *Visual Thinking for Design*. Morgan Kaufmann, 2008. ISBN: 9780123708960. \[Preview with {{% resource_link "80388aa5-10f6-43aa-89c6-847392999264" "Google Books" %}}\]
 
-Segel, E., and J. Heer. "[Narrative visualization: Telling stories with data." (PDF - 1.4MB)](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) *IEEE Transactions on Visualization and Computer Graphics* 16, no. 6 (2010): 1139-48.
+Segel, E., and J. Heer. "{{% resource_link "2015a7e5-6e7d-40a9-b218-de1f7f6efcbb" "Narrative visualization: Telling stories with data.\" (PDF - 1.4MB)" %}} *IEEE Transactions on Visualization and Computer Graphics* 16, no. 6 (2010): 1139-48.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -124,13 +124,13 @@ Overview
 
  McCloud, S. "Vocabulary of Comics." Chapter 2 in *Understanding Comics: The Invisible Art*. William Morrow Paperbacks, 1994. ISBN: 9780060976255
 
-Wilson, M. "[Why You Don’t Make A Mindlessly Beautiful Visualization Of A Horrific Event](https://www.fastcodesign.com/3049586/why-you-dont-make-a-mindlessly-beautiful-visualization-of-a-horrific-event)." *Co.Design*, August 8, 2015.
+Wilson, M. "{{% resource_link "921bdc86-6608-4a89-b80a-ea1ff55f0934" "Why You Don’t Make A Mindlessly Beautiful Visualization Of A Horrific Event" %}}." *Co.Design*, August 8, 2015.
 
-Holmes, N. "[why so serious.](https://www.youtube.com/watch?v=vetdvFXR-Zc)" YouTube. Aug. 31, 2009
+Holmes, N. "{{% resource_link "519de65c-687a-477b-9df7-436fbef8bd12" "why so serious." %}}" YouTube. Aug. 31, 2009
 
 ### Graduate Reading
 
-Pandey, A. V., K. Rall, M. L. Satterthwaite, O. Nov, and E. Bertini. "[How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2566968)" *Proceedings of the ACM Conference on Human Factors in Computing Systems 2015*. NYU School of Law, Public Law Research Paper No. 15-03, Feb. 18, 2015.
+Pandey, A. V., K. Rall, M. L. Satterthwaite, O. Nov, and E. Bertini. "{{% resource_link "eb363d3b-5400-4d7a-8688-8607511a60aa" "How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques." %}}" *Proceedings of the ACM Conference on Human Factors in Computing Systems 2015*. NYU School of Law, Public Law Research Paper No. 15-03, Feb. 18, 2015.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -139,7 +139,7 @@ Pandey, A. V., K. Rall, M. L. Satterthwaite, O. Nov, and E. Bertini. "[How Decep
 {{< tdclose >}}{{< tdopen >}}
 Studio (in class work time)
 {{< tdclose >}}{{< tdopen >}}
-Groeger, L. "[Design Principles for News Apps & Graphics](https://www.propublica.org/nerds/design-principles-for-news-apps-graphics)." *ProPublica*, May 30, 2013.
+Groeger, L. "{{% resource_link "b2f5f9bb-d53a-4913-aea4-3e1e9e87d497" "Design Principles for News Apps & Graphics" %}}." *ProPublica*, May 30, 2013.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -160,13 +160,13 @@ Overview
 
  Blair, J. A. "The Rhetoric of Visual Arguments." Chapter 2 in *Defining Visual Rhetorics*. Lawrence Erlbaum, 2014. ISBN: 9780805844023. pp. 41-61.
 
-Bertini, E., and M. Stefaner. Episode 17, "[Data Sculptures](http://datastori.es/episode17-data-sculptures/)." *Data Stories* \[podcast\]. (Listen to the first 27 minutes.)
+Bertini, E., and M. Stefaner. Episode 17, "{{% resource_link "f9573a42-d2ba-451a-9a38-721cc1fae29e" "Data Sculptures" %}}." *Data Stories* \[podcast\]. (Listen to the first 27 minutes.)
 
-Jansen, Y., P. Dragicevic, J. A. Isenberg, et al. "[Opportunities and Challenges for Data Physicalization." (PDF - 1.6MB)](https://hal.inria.fr/hal-01120152/document). *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)*, April 2015.
+Jansen, Y., P. Dragicevic, J. A. Isenberg, et al. "{{% resource_link "94a7fde3-f2d9-471d-ba50-c8a4d14c9514" "Opportunities and Challenges for Data Physicalization.\" (PDF - 1.6MB)" %}}. *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)*, April 2015.
 
 ### Graduate Readings
 
-Yvonne Jansen, Kasper Hornbæk. "[A Psychophysical Investigation of Size as a Physical Variable." (PDF - 10MB)](https://hal.inria.fr/hal-01219057/document) *IEEE Transactions on Visualization and Computer Graphics* 22 no. 1 (2016): 479 - 488.
+Yvonne Jansen, Kasper Hornbæk. "{{% resource_link "de1e5d4c-08b3-437c-b642-3f1357fce75e" "A Psychophysical Investigation of Size as a Physical Variable.\" (PDF - 10MB)" %}} *IEEE Transactions on Visualization and Computer Graphics* 22 no. 1 (2016): 479 - 488.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -196,9 +196,9 @@ Overview
 
 boyd, d. “What World Are We Building?" *Data and Society: Points*, January 2016.
 
-Slobin, S. "[What if Data Visualization is Actually People?](https://source.opennews.org/articles/what-if-data-visualization-actually-people/)" *OpenNews: Source*, April 2014.
+Slobin, S. "{{% resource_link "c4405097-2707-4a34-940e-8db9fce94445" "What if Data Visualization is Actually People?" %}}" *OpenNews: Source*, April 2014.
 
-DuBois, R. L. "[Insightful human portraits made from data](https://www.ted.com/talks/r_luke_dubois_insightful_human_portraits_made_from_data)." TED Talk (video), February 2016.
+DuBois, R. L. "{{% resource_link "b6f43d81-eec6-4b89-bb16-a5344314c01a" "Insightful human portraits made from data" %}}." TED Talk (video), February 2016.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -234,13 +234,13 @@ Presentations and discussion
 Overview
 {{< tdclose >}}{{< tdopen >}}
 
-Hart, V. and N. Case. [Parable of the Polygons](http://ncase.me/polygons/).
+Hart, V. and N. Case. {{% resource_link "8b004ea0-3f34-44b6-bee9-1c66b28652a4" "Parable of the Polygons" %}}.
 
-Gordon, E., S. Walter, and P. Suarez. [*Engagement Games Guidebook*](https://preparecenter.org/wp-content/sites/default/files/engagement-game-guide.pdf). Engagement Lab at Emerson College and Red Cross/Red Crescent Climate Centre, 2016.
+Gordon, E., S. Walter, and P. Suarez. {{% resource_link "ded98211-ae8c-4d8e-af97-17fa1ffdb9e0" "*Engagement Games Guidebook*" %}}. Engagement Lab at Emerson College and Red Cross/Red Crescent Climate Centre, 2016.
 
 ### Graduate Reading
 
-Valkanova, N., R. Walter, A. Vande Moere, and J. Müller. “[MyPosition: Sparking Civic Discourse by a Public Interactive Poll Visualization](https://www.hiig.de/en/publication/myposition-sparking-civic-discourse-by-a-public-interactive-poll-visualization/).” In *Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW ’14)*. ACM (2014): 1323–1332.
+Valkanova, N., R. Walter, A. Vande Moere, and J. Müller. “{{% resource_link "9482b2e4-2536-4eb5-ba36-42af61627255" "MyPosition: Sparking Civic Discourse by a Public Interactive Poll Visualization" %}}.” In *Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work & Social Computing (CSCW ’14)*. ACM (2014): 1323–1332.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -268,15 +268,15 @@ Presentations and discussion
 Overview
 {{< tdclose >}}{{< tdopen >}}
 
-Ericson, M. “[When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/).” Blog post (October 2011).
+Ericson, M. “{{% resource_link "a1aed00b-4b6a-4e25-8fdf-2772f8813b72" "When Maps Shouldn’t Be Maps" %}}.” Blog post (October 2011).
 
-Sack, C. “[A #NoDAPL Map](https://northlandia.wordpress.com/2016/11/01/a-nodapl-map/).” *Northlandia* (November 1, 2016).
+Sack, C. “{{% resource_link "7132e593-f060-49f7-aec2-3f6894ce6519" "A #NoDAPL Map" %}}.” *Northlandia* (November 1, 2016).
 
-Gamio, L. “[Election maps are telling you big lies about small things](https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/).” *Washington Post,* November 1, 2016.
+Gamio, L. “{{% resource_link "ac5c66bb-3d3f-47ac-a7c2-7abca1afa628" "Election maps are telling you big lies about small things" %}}.” *Washington Post,* November 1, 2016.
 
 ### Graduate Reading
 
-D’Ignazio, C. “[What Would Feminist Data Visualization Look Like?](https://civic.mit.edu/feminist-data-visualization)” MIT Center for Civic Media, December 2015.
+D’Ignazio, C. “{{% resource_link "c58c96d0-50f4-47b8-b21e-3d0e76a7f65a" "What Would Feminist Data Visualization Look Like?" %}}” MIT Center for Civic Media, December 2015.
 
 {{< tdclose >}}{{< tdopen >}}
  
