@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page presents details about the Save the Bees final project.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

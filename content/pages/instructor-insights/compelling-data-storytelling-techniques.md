@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -35,4 +33,4 @@ I found personal stories particularly engaging. There is something about digging
 Felipe Lozano-Landinez, Undergraduate, Technology for Social Systems | MIT Department of Mechanical Engineering
 ---------------------------------------------------------------------------------------------------------------
 
-The most compelling technique for me was data sculpture; this technique essentially tries to embody data in a tangible medium. This is the technique that was used by my team in the final project ([Whispers of Freedom](http://datastudio2016.datatherapy.org)), in which we gathered audio data and created electromechanical birds that represented the hopes, aspirations, and wonder of the ideas spoken. I thought this technique was incredibly compelling because of its ability to create empathy. Making the data "alive" through non-quantitative means makes the concept much more relatable and personable. The audience understands this at an organic level, and they are drawn to learning more. It's much more engaging. Long story short, it is much more memorable. And in many cases, that's the entire point.
+The most compelling technique for me was data sculpture; this technique essentially tries to embody data in a tangible medium. This is the technique that was used by my team in the final project ({{% resource_link "e34dc8d3-5dc7-4c33-92f6-739be5ff0612" "Whispers of Freedom" %}}), in which we gathered audio data and created electromechanical birds that represented the hopes, aspirations, and wonder of the ideas spoken. I thought this technique was incredibly compelling because of its ability to create empathy. Making the data "alive" through non-quantitative means makes the concept much more relatable and personable. The audience understands this at an organic level, and they are drawn to learning more. It's much more engaging. Long story short, it is much more memorable. And in many cases, that's the entire point.
